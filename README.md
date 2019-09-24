@@ -30,7 +30,7 @@
 ![myimage-alt-tag](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/71186206_435814253726076_1504487263801704448_n.jpg?_nc_cat=111&_nc_oc=AQlC-SDXL_cu7o6QRpfYWcMVb67BNJ2h3fADo8OrJI0mANvZoEslAAnvrSM85lIiZi4&_nc_ht=scontent-bog1-1.xx&oh=18116f373bf7b0f58c9a0ff7e9a70938&oe=5E2E5B45)
 
 # VIDEO:
-[![Watch the video](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/70930221_399829710675036_1748824663326195712_n.jpg?_nc_cat=101&_nc_oc=AQkMCKp_CW1SLWr6h4AjyasHbislAglbT8_w6BkLkzjc1iP8vii8h0Mvxmi5WC7N9P0&_nc_ht=scontent-bog1-1.xx&oh=a5ab39d76dd4f0bef741f63a7cdaf5bd&oe=5DF72880)](https://www.youtube.com/watch?v=sDo7eq4tuHs)
+[![Watch the video](https://img.https://www.youtube.com/watch?v=sDo7eq4tuHs/maxresdefault.jpg)](https://www.youtube.com/watch?v=sDo7eq4tuHs)
 
 
 
